@@ -53,4 +53,3 @@ A decentralized web app where anyone can submit and explore civic issues.
 - 📈 **Dashboard:** Stats of frequently reported issues & hotspots.
 
 ---
-
