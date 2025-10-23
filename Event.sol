@@ -73,6 +73,7 @@ contract Event {
     }
 
     function bookticket() public payable {
+        
         event_owner.transfer(msg.value);
         emit bookdone(msg.sender, event_name, block.timestamp);
     }
