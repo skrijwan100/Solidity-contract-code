@@ -10,7 +10,6 @@
 ## 📌 Introduction
 **StateChain Reporter** is a blockchain-powered decentralized platform that lets citizens report civic issues in a **tamper-proof** and **censorship-resistant** way.  
 By leveraging **Blockchain** for immutable records and **IPFS** for media storage, issues are **permanent, transparent, and verifiable**.
-
 ---
 ## Contarct address:0x781038Ad2b013f050BBdC03275e0e81987fF4007
 ## ❗ Problem Statement
