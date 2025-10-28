@@ -49,5 +49,4 @@ A decentralized web app where anyone can submit and explore civic issues.
 - 📦 **IPFS Upload:** Decentralized media storage.
 - 📍 **Location Field:** State + optional district/city.
 - 📈 **Dashboard:** Stats of frequently reported issues & hotspots.
-
 ---
