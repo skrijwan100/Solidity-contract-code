@@ -32,7 +32,6 @@ A decentralized web app where anyone can submit and explore civic issues.
 - 🗺️ **State-wise filtering**  
 - 🔐 **On-chain record** (immutable)
 ---
-
 ## 🚀 Why StateChain Reporter
 - ✨ **Transparency:** Issues can’t be edited or removed after submission.
 - 🔐 **Security:** Reports on-chain; images on IPFS.
