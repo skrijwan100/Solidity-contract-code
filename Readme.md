@@ -2,7 +2,6 @@
 ![Built with](https://img.shields.io/badge/Built%20with-React%20%7C%20Hardhat%20%7C%20IPFS-0ea5e9)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-blue)
-
 > Empowering citizens with transparency & accountability using Blockchain + IPFS.
 
 ---
