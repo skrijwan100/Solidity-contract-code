@@ -47,3 +47,6 @@ A decentralized web app where anyone can submit and explore civic issues.
 - 📍 **Location Field:** State + optional district/city.
 - 📈 **Dashboard:** Stats of frequently reported issues & hotspots.
 ---
+
+
+
